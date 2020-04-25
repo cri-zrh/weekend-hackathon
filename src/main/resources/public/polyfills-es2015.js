@@ -3033,7 +3033,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\crist\Documents\coding\hackathon\src\main\resources\frontend\location-app\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! /Users/Horror/Documents/Coding/weekend-hackathon/src/main/resources/frontend/location-app/src/polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })

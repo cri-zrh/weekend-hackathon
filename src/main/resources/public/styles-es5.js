@@ -464,7 +464,7 @@
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! C:\Users\crist\Documents\coding\hackathon\src\main\resources\frontend\location-app\src\styles.css */
+    /*! /Users/Horror/Documents/Coding/weekend-hackathon/src/main/resources/frontend/location-app/src/styles.css */
     "./src/styles.css");
     /***/
   }
